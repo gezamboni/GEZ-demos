@@ -1,1 +1,0 @@
-/usr/lib/aarch64-linux-gnu-python2.7/site-packages/pyupm_i2clcd.py
