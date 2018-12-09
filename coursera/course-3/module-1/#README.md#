@@ -1,0 +1,31 @@
+Para rodar os programas deste módulo
+dar os seguintes comandos
+
+1. Lex.py
+
+sudo apt-get install awscli
+
+no diretório rodar
+
+aws configure
+colocar a senha ACC e a secreta
+escolher us-east-1 (virginia) os outros não funcionam
+
+ver os comandos possiveis com
+aws help
+
+instalat Boto3
+eu tentey instalar
+
+sudo apt-get python3-boto
+e não deu certo
+
+tive que instalar usando pip como AWS documentation recomenda
+
+sudo apt-get install python-pip
+pip install boto3
+
+2. AWS IoT |SDK to run MQTT
+
+pip install wheel
+pip install AWSIoTPythonSDK
